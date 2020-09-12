@@ -77,5 +77,3 @@ A simple mvc structure using Node js + Reactjs setup (Sample React Component) + 
 <p>body parser -https://www.npmjs.com/package/body-parser</p>
 <p>mongo db - https://www.npmjs.com/package/mongodb</p>
 <p>Also two great packages babel and webpack made the reactjs setup easier.</p>
-
-Hi test
